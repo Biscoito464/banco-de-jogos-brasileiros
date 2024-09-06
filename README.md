@@ -30,8 +30,12 @@ Contribuições são bem-vindas! Para contribuir com este projeto, siga estes pa
 3. Faça suas alterações e commit.
 4. Envie um pull request.
 
+### Link vercel
+https://banco-de-jogos-brasileiros.vercel.app
+
 ### Autor
 Caetano Souza Junqueira Tagliari Ferreira
+
 Caetagliari@hotmail.com
 
 ### Agradecimentos
