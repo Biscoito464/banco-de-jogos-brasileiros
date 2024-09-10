@@ -89,6 +89,54 @@ let dados = [
         descricao: "Dandara é uma jornada épica em um mundo surreal, desafiando a gravidade a cada passo.Explore um universo interconectado, domine a gravidade e derrote inimigos místicos em Dandara. Uma aventura de plataforma única, onde a gravidade é apenas uma sugestão.",
         tag: "metroidvania, platformer, pixel art",
         link: "https://store.steampowered.com/app/612390/Dandara_Trials_of_Fear_Edition/",
+    },
+    // Fobia - Psychological Thriller
+    {
+        titulo: "Fobia - St. Dinfna Hotel",
+        imagem: "img/fobia.jpg",
+        descricao: "Uma experiência de terror psicológico em primeira pessoa, ambientada em um hotel abandonado. Explore os corredores escuros, resolva enigmas e sobreviva aos horrores que se escondem nas sombras.",
+        tag: "terror, psicológico, first-person, survival horror",
+        link: "store.steampfobiaowered.com/app/1298140/Fobia__St_Dinfna_Hotel/"
+    },
+    // Horizon Chase Turbo - Arcade Racing
+    {
+        titulo: "Horizon Chase Turbo",
+        imagem: "img/horizon.jpg",
+        descricao: "Uma homenagem aos clássicos jogos de corrida arcade dos anos 80 e 90. Corra em pistas vibrantes, colete power-ups e experimente a emoção da velocidade em um mundo pixel art.",
+        tag: "arcade, corrida, pixel art, nostalgia",
+        link: "https://store.steampowered.com/app/389140/Horizon_Chase_Turbo/"
+    },
+    // No Place for Bravery - 2D Action RPG
+    {
+        titulo: "No Place for Bravery",
+        imagem: "img/no-place-for-bravery.jpg",
+        descricao: "Um guerreiro envelhecido busca vingança em um mundo brutal. Em No Place for Bravery, sobreviva a batalhas frenéticas e descubra a verdade por trás de uma guerra sangrenta.",
+        tag: "rpg, action, 2d, medieval",
+        link: "https://store.steampowered.com/app/1679200/No_Place_for_Bravery/"
+    },
+    // 171 - Adventure Puzzle
+    {
+        titulo: "171",
+        imagem: "img/171.jpg",
+        descricao: "Mergulhe no coração pulsante do Brasil em 171, um jogo de mundo aberto que te coloca no papel de um malandro em busca de fortuna. Explore cidades vibrantes, complete missões desafiadoras e viva a vida de um verdadeiro brasileiro. Com uma jogabilidade rica e um enredo envolvente, 171 te oferece a liberdade de construir sua própria história neste mundo aberto e dinâmico.",
+        tag: "mundo aberto, ação, aventura, brasil, malandro",
+        link: "https://store.steampowered.com/app/1269370/171/?l=brazilian"
+    },
+    // No Heroes Here - Tactical RPG
+    {
+        titulo: "No Heroes Here",
+        imagem: "img/no-heroes-here.jpg",
+        descricao: "Um jogo frenético para um a quatro jogadores, no qual a coordenação e cooperação são essenciais para o sucesso. Todos devem cumprir seu papel nas batalhas por vir e trabalhar juntos como uma equipe para defender castelos e salvar o reino da condenação!",
+        tag: "rpg, tactical, humor, Hordas de inimigos",
+        link: "https://store.steampowered.com/app/1626260/No_Heroes_Here/"
+    },
+    // Chroma Squad - Tactical RPG
+    {
+        titulo: "Chroma Squad",
+        imagem: "img/chroma-squad.jpg",
+        descricao: "Crie seu próprio programa de super sentai e leve-o para a fama! Gere sua equipe, personalize seus trajes, crie seus próprios poderes e enfrente vilões em batalhas épicas.",
+        tag: "rpg, tactical, super sentai, gerenciamento",
+        link: "https://store.steampowered.com/app/251130/Chroma_Squad/"
     }
 ];
 
